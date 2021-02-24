@@ -8,5 +8,6 @@ public class removeElementTest {
         int[] nums = {3, 2, 2, 9,7,2};
         int i = removeElement.removeElement(nums, 2);
         System.out.println(i);
+        System.out.println("修改测试");
     }
 }
